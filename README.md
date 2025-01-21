@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a graduate student in Computer Science at **UNC Charlo
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketTiwari09&layout=compact&theme=radical&langs_count=8)
-[![GPG Badge](https://img.shields.io/badge/GPG-Key-Active-green)](https://github.com/USERNAME.gpg)
 
 ---
 
@@ -41,19 +40,6 @@ Welcome to my GitHub! I'm a graduate student in Computer Science at **UNC Charlo
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
----
-
-## 🏆 Projects
-
-### **BudgetWise AI**
-- **Technologies:** React.js, Express.js, Node.js, MongoDB, Digital Ocean, Hugging Face  
-- Built a scalable budgeting app with **AI chatbot** integration using Hugging Face’s LLaMA 3-8B model.  
-- Increased user engagement by 30% with actionable financial insights and advanced NLP query handling.  
-
-### **RedisX Java Server**
-- **Technologies:** Java, Redis CLI, Docker, Multi-threading, Socket Programming  
-- Developed a multi-threaded server achieving **10,000+ ops/sec** with optimized GET/SET performance.  
-- Improved throughput by 25% using Java Executors and Docker-based benchmarking.  
 
 ---
 
@@ -74,4 +60,3 @@ Welcome to my GitHub! I'm a graduate student in Computer Science at **UNC Charlo
 
 ---
 
-⭐️ *Check out my repositories for more projects and collaborations!*  
