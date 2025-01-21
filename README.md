@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm a graduate student in Computer Science at **UNC Charlo
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketTiwari09&layout=compact&theme=radical&langs_count=8)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ---
 
@@ -59,8 +60,8 @@ Welcome to my GitHub! I'm a graduate student in Computer Science at **UNC Charlo
 ## 🌟 About Me
 
 - 🌱 I’m constantly exploring new technologies in **AI**, **cloud computing**, and **software design**.  
-- 🎯 Career Goal: To create scalable, AI-driven applications and contribute to cutting-edge research in machine learning.  
-- 📚 Currently pursuing **M.S. in Computer Science**, with a focus on **big data analytics** and **software engineering**.
+- 🎯 Career Goal: To create scalable, AI-driven applications and contribute to cutting-edge research in software engineering and machine learning.  
+- 📚 Currently pursuing **M.S. in Computer Science**, with a focus on **software engineering**.
 
 ---
 
