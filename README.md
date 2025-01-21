@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a graduate student in Computer Science at **UNC Charlo
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketTiwari09&layout=compact&theme=radical&langs_count=8)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AniketTiwari09&color=blue)
 
 ---
 
